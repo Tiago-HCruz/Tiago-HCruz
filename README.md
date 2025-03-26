@@ -85,3 +85,9 @@ Olá, eu me chamo Tiago Cruz e resido na cidade de Santa Bárbara D’Oeste em S
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-HCruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+
+---
+test
