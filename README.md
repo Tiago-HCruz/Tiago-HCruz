@@ -75,19 +75,71 @@ Olá, eu me chamo Tiago Cruz e resido na cidade de Santa Bárbara D’Oeste em S
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-HCruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+### Portfolio
+
+  <img
+    align="left"
+    alt="Covid-19" 
+    title="Covid-19"
+    width="400px" 
+    src="https://tiago-hcruz.github.io/Portfolio/img/Capa_Covid-19_no_Brasil.png"
   />
-</p>
 
-<br/>
+
+<img 
+    align="left" 
+    alt="Covid-19" 
+    title="Covid-19"
+    width="400px" 
+    style="padding-right: 10px;" 
+    src="https://tiago-hcruz.github.io/Portfolio/img/Capa_video_game.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Covid-19" 
+    title="Covid-19"
+    width="400px" 
+    style="padding-right: 10px;" 
+    src="https://tiago-hcruz.github.io/Portfolio/img/Dogecoin_Dashboard.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Covid-19" 
+    title="Covid-19"
+    width="400px" 
+    style="padding-right: 10px;" 
+    src="https://tiago-hcruz.github.io/Portfolio/img/Capa_Classificador_Arroz.png" 
+/>
+
+<img 
+    alt="Covid-19" 
+    title="Covid-19"
+    width="400px" 
+    style="padding-right: 10px;" 
+    src="https://tiago-hcruz.github.io/Portfolio/img/Capa_Consumo_Conta.png" 
+/>
+
 <br/>
 
 ---
-test
+### 📊 Estatísticas
+
+<div> 
+  <p>
+  <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago-HCruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </p>
+</div> 
+
+<br/>
+<br/>
+
+
